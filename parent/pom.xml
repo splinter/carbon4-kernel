@@ -485,7 +485,7 @@
         <version.xmlunit>1.1</version.xmlunit>
         <version.jaxen>1.1.1</version.jaxen>
         <version.log4j>1.2.13</version.log4j>
-        <version.junit>3.8.2</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.xmlunit1>1.0</version.xmlunit1>
         <version.tcpmon>1.0</version.tcpmon>
         <version.ibm.icu>4.0.1.v20090415</version.ibm.icu>
